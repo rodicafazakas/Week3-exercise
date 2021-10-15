@@ -1,4 +1,4 @@
-class Component {
+class Componente {
   element;
   parentElement;
 
@@ -10,4 +10,4 @@ class Component {
   }
 }
 
-export default Component;
+export default Componente
