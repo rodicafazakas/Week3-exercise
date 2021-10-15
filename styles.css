@@ -9,6 +9,16 @@
   margin-bottom: 50px;
 }
 
+.list-item {
+  display: flex;
+}
+
+.btn {
+  display: inline-block;
+  width: 100px;
+  margin-left: 5px;
+}
+
 .newdiv {
   display: block;
   height: 30px;
